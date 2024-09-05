@@ -1,7 +1,5 @@
 # Food-Avalanche
 
-Website: https://aminahrizwan00.wixsite.com/foodavalanche
-
 Moving to Kingston for university, our team was overwhelmed by the large population of homeless people in the city. At the same time, our experiences in residence 
 exposed us to just how much food gets wasted by restaurants at the end of the day. Both parties are suffering – the homeless are left starving, and the restaurants 
 are losing money – but both their problems stem from inverse issues – a lack of food, and an excess. There’s also a silent third-party suffering too, which is the 
